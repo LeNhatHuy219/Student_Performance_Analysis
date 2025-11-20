@@ -52,7 +52,7 @@ The project is implemented using **Python** with the following libraries:
 ##  How to Run
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YourUsername/Student-Performance-Analysis.git](https://github.com/YourUsername/Student-Performance-Analysis.git)
+    git clone [https://github.com/LeNhatHuy219/Student_Performance_Analysis.git](https://github.com/LeNhatHuy219/Student_Performance_Analysis.git)
     ```
 2.  Install required libraries:
     ```bash
