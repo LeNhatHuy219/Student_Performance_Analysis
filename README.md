@@ -19,6 +19,7 @@ This project aims to analyze the factors affecting high school students' academi
 
 **Dataset Source:** [Students Performance in Exams (Kaggle)](https://www.kaggle.com/spscientist/students-performance-in-exams)
 
+** Version :** Python 3.9.18
 ---
 
 ##  Repository Structure
